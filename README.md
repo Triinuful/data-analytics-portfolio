@@ -10,7 +10,7 @@ Closer look into 5 highest number of international student countries' trends, to
 
 **Tools used:** Plotly, Glob and Pandas Python libraries.
 
-**Notebook:** https://www.kaggle.com/datasets/triinulepp/vic-internat 
+**Notebook:** https://www.kaggle.com/code/triinulepp/vic-international-students-student-visa-analysis
 
 **Data source:** Australian Government Department of Education, International student numbers by country, state and territory. Source data is derived from PRISMS. Used under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. © Commonwealth of Australia.
 https://www.education.gov.au/international-education-data-and-research/international-student-numbers-country-state-and-territory 
